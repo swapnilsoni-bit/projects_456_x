@@ -42,5 +42,7 @@ int main() {
  
 // Push 
 
+// Pull
+
     return 0;
 }
