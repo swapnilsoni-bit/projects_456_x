@@ -40,7 +40,7 @@ int main() {
 
     cout << "Result: " << num1 << " " << op << " " << num2 << " = " << result << endl;
  
-// Push 
+// Push - c
 
 // Pull
 
